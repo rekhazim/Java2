@@ -12,6 +12,10 @@ public static void main(String[] args) {
 	i.malayalam();
 	i.tamilLanguage();
 	i.telugu();
+<<<<<<< HEAD
 	System.out.println("Working on Perf");
+=======
+	System.out.println("Working on branch QA");
+>>>>>>> 5bdf8e67a7e508de07d3901a4843eb3f0f7bd632
 }
 }
